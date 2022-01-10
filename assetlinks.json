@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+    "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.walkthedistance",
+      "sha256_cert_fingerprints": [
+        "71:92:3D:9C:53:FE:7D:11:43:0D:0C:F2:B8:3E:E3:DA:DF:48:06:8E:35:4C:06:23:38:0F:40:9D:BB:A0:A3:F7"
+        ]
+    }
+  }
+]
